@@ -1,5 +1,7 @@
 # claude-skill-analytics
 
+> **Japanese / 日本語**: [README.ja.md](README.ja.md)
+
 A Claude Code plugin that automatically tracks skill usage and generates ranked reports with actionable recommendations.
 
 Know which skills drive your workflow, which ones are dormant, and which ones are failing silently.
