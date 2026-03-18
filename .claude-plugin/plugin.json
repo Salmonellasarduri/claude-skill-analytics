@@ -1,0 +1,8 @@
+{
+  "name": "claude-skill-analytics",
+  "description": "Automatic skill usage tracking and analytics for Claude Code. Logs every skill invocation via PostToolUse hook, generates ranked reports with dormancy detection and actionable recommendations.",
+  "author": {
+    "name": "nabetama",
+    "url": "https://github.com/Salmonellasarduri"
+  }
+}

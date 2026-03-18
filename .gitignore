@@ -1,0 +1,14 @@
+# Log data (contains usage data -- do not commit)
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
